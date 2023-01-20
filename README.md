@@ -12,7 +12,7 @@
 | Bel Canto #10 (F) - Vocalise #11 (F)                               |              | Bordogni_BelCanto-10_Vocalise-11_PD.mscx |                                                  |
 | Bel Canto #11 (D) - Vocalise #08 (D)                               |              | Bordogni_BelCanto-11_Vocalise-08_PD.mscx |                                                  |
 | Bel Canto #12 (A) - Vocalise #18 (A)                               |              | Bordogni_BelCanto-12_Vocalise-18_PD      |                                                  |
-| Bel Canto #13 (D) - 12 Vokalisen Mezzosopran #03 (D)               | Skrevet selv |                                          |                                                  |
+| Bel Canto #13 (D) - 12 Vokalisen Mezzosopran #03 (D)               | Draft ready in MS |                                          |                                                  |
 | Bel Canto #14 (F) - 24 Nouvelle voc pour m-sop&contralto #3 (F)    |              | Bordogni_BelCanto-14_Vocalise-26_PD.mscx |                                                  |
 | Bel Canto #15 (Db) - Vocalise #18 (Db)                             |              | Bordogni_BelCanto-15_Vocalise-19_PD.mscx |                                                  |
 | Bel Canto #16 (A) - 24 Nouvelle voc pour m-sop&contralto #7 (Ab)   |              | Bordogni_BelCanto-16_Vocalise-29_PD.mscx |                                                  |
@@ -36,7 +36,7 @@
 | Bel Canto #34 (C#) - 24 Nouvelle voc pour m-sop&contralto #12 (C)  |              | Bordogni_BelCanto-34_Vocalise-37_PD.mscx |                                                  |
 | Bel Canto #35 (E) - 36 vocalises in modern style #19 (Db)          |              |                                          |                                                  |
 | Bel Canto #36 (A) - 36 vocalises in modern style #05 (Ab)          |              |                                          |                                                  |
-| Bel Canto #37 (E) - 36 vocalises in modern style #03 (D)           | Skrevet selv |                                          |                                                  |
+| Bel Canto #37 (E) - 36 vocalises in modern style #03 (D)           | Draft ready in MS |                                          |                                                  |
 | Bel Canto #38 (Db) - 36 vocalises in modern style #06 (C)          |              |                                          |                                                  |
 | Bel Canto #39 (Bb) - ? (?)                                         |              |                                          |                                                  |
 | Bel Canto #40 (Ab) - 36 vocalises in modern style #10 (Gb)         |              |                                          |                                                  |
