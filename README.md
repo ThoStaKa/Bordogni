@@ -1,5 +1,6 @@
+| Bel Canto vs Vocalises                               |              | BelCanto vs Rochut |                                                  |
+| ------------------------------------------------------------------ | ------------ | ---------------------------------------- | ------------------------------------------------ |  
 | Bel Canto #01 (F) - Vocalise #04 (F)                               |              | Bordogni_BelCanto-01_Vocalise-04_PD.mscx |                                                  |
-| ------------------------------------------------------------------ | ------------ | ---------------------------------------- | ------------------------------------------------ |
 | Bel Canto #02 (G) - Vocalise #03 (G)                               |              | Bordogni_BelCanto-02_Vocalise-03_PD.mscx |                                                  |
 | Bel Canto #03 (F) - Vocalise #02 (F)                               |              | Bordogni_BelCanto-03_Vocalise-02_PD.mscx |                                                  |
 | Bel Canto #04 (Bb) - Vocalise #05 (C)                              |              | Bordogni_BelCanto-04_Vocalise-05_PD.mscx |                                                  |
