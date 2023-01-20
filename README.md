@@ -3,7 +3,7 @@ Comparison between Marco Bordogni  43 Bel Canto Studies compiled by Chester Robe
 
 
 
-Bel Canto #01 (F) -  Vocalise #04 (F)	
+Bel Canto #01 (F) -  Vocalise #04 (F)
 Bel Canto #02 (G) -  Vocalise #03 (G)	
 Bel Canto #03 (F) -  Vocalise #02 (F)	
 Bel Canto #04 (Bb) -  Vocalise #05 (C)	
